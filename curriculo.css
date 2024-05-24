@@ -1,0 +1,17 @@
+h1{
+    color: rgba(63, 185, 241, 0.815);
+    font-style: initial;
+}
+
+body{
+
+background-color: rgb(138, 125, 125);
+text-align: center;
+
+background-image: url(/download.jpg) ; 
+background-repeat: no-repeat;
+background-size: 100% 172%;
+}
+p{
+    color: bisque;
+}
